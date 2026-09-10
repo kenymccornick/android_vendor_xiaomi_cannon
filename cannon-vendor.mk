@@ -1435,5 +1435,5 @@ PRODUCT_PACKAGES += \
     android.hardware.gnss@2.1-service-mediatek \
     lbs_hidl_service@1.0 \
     manifest_android.hardware.drm@1.4-service.widevine \
-    manifest_media_c2_V1_2_default \
+    manifest_media_c2_V1_1_default \
     manifest_vendor.xiaomi.hardware.mlipay
